@@ -16,7 +16,9 @@ looks like:
 
 ### Goal
 
-The task is to create 2D distribution of **velocity magnitude** enclosed in **density** and **temperature** bins.
+The task is to create 2D distribution of **velocity magnitude** enclosed in **density** and **temperature** bins 
+using any available tools in the python ecosystem.
+
 It should resemble this:
 
 ![Phase Plot](./phase_plot.png)
